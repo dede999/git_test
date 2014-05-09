@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-    printf ("Heeey\n\n =D \n");
+    printf ("Heeey\n =D \n");
     return ;
 }
